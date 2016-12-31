@@ -1,4 +1,4 @@
-# assigment
+# Assignment
 classification of gyro/accel data
 
 I approached the assignment using two types of classifiers: a neural network and a k-nn classifier. 
