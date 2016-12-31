@@ -14,5 +14,7 @@ I am providing three python scripts:
 - knnClassification: script to train and evaluate a k nearest neighbor classifier using cross validation.
 
 The neural network data does not achieve a very high accuracy. This is probably due to the fact that some classes have a very small amount of data, and that the training and network architecture is very “shallow” due to the lack of powerful hardware. The visualization of the output of the layers reveals clusters of data that start to separate through layers, however in the output of layer 2 there is still some “confusion” among classes. 
-The AMI used was vict0rsch-1.0 - ami-10762170
-Since these are relatively simple scripts I did not organize functions into libraries
+
+The AMI used was vict0rsch-1.0 - ami-10762170.
+
+Since these are relatively simple scripts I did not organize functions into libraries.
